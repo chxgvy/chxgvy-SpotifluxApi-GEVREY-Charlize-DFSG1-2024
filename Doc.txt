@@ -1,0 +1,50 @@
+Lien pour se rendre sur la page Login :
+http://localhost:8000/login
+
+
+GET
+
+Page Artist : 
+http://localhost:8000/api/artistes
+
+Page Track : 
+http://localhost:8000/api/tracks
+
+Page Album : 
+http://localhost:8000/api/albums
+
+
+POST
+
+Page Artist : 
+http://localhost:8000/api/artistes
+
+Page Track : 
+http://localhost:8000/api/tracks
+
+Page Album : 
+http://localhost:8000/api/albums
+
+
+PUT 
+
+Page Artist : 
+http://localhost:8000/api/artiste/(id)
+
+Page Track : 
+http://localhost:8000/api/track/(id)
+
+Page Album : 
+http://localhost:8000/api/album/(id)
+
+
+DELETE
+
+Page Artist : 
+http://localhost:8000/api/artiste/(id)
+
+Page Track : 
+http://localhost:8000/api/track/(id)
+
+Page Album : 
+http://localhost:8000/api/album/(id)
